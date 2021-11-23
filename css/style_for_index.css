@@ -15,7 +15,7 @@ body{
 }
 .header{
     margin: 0 auto;
-    background-image: url(/img/icons/Background.png);
+    background-image: url(./img/icons/Background.png);
     background-repeat: no-repeat;
     height: 744px;
     max-width: 1440px;
@@ -554,7 +554,7 @@ span.s5{
 
 .footer{
     margin: 0 auto;
-    background-image: url(/img/footer/Background.png);
+    background-image: url(./img/footer/Background.png);
     background-repeat: no-repeat;
     height: 705px;
     max-width: 1440px;
